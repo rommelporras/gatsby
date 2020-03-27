@@ -10074,3 +10074,22 @@
     - Library
   built_by: Gilbish Kosma
   built_by_url: https://www.gil20.me/
+- title: DevOps Cycle
+  main_url: https://www.devopscycle.com/
+  url: https://www.devopscycle.com/
+  featured: false
+  categories:
+    - Blog
+    - Documentation
+    - Programming
+    - Learning
+    - Data
+    - Productivity
+    - Technology
+    - Web Development
+    - Javascript
+    - Disqus
+    - MDX
+    - Markdown
+  built_by: Rommel Porras
+  built_by_url: https://www.rommelporras.com/
